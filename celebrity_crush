@@ -1,0 +1,25 @@
+celebrity_crush = {
+  "Lily" => "Matt Bomer",
+  "Isabella" => "Tom Holland",
+  "Sam" => "Michael B Jordan",
+  "Bella" => "Dallas Winston",
+  "Evie" => "Myself"
+}
+
+puts celebrity_crush.keys
+
+
+bok_choy_coders = ["brianna", "Sonali", ["Caroline", "Katheryn", "Sam"], "Amy", "Alice"]
+puts bok_choy_coders[2][0]
+
+
+vacation = {
+  "Alice" => "Norway",
+  "Kathryn" => "Galapagos Islands",
+  "Cassie" => "New Zealand",
+  "Bella" => "Scottland",
+  "Jessica" => "France"
+}
+
+puts vacation.keys[0] 
+puts vacation.values[0]
